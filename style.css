@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+h1{
+    margin: 10px;
+    text-transform: uppercase;
+    text-decoration: solid;
+    color: rgb(20, 24, 24);
+}
+  
+  a {
+    color: black;
+  }
+  body {
+    text-align: center;
+  }
+  
+  .slack_username img {
+    width: 300px;
+    border-radius: 50%;
+  }
+  
+  h2 {
+    margin: 20px auto;
+  }
+  
+  h2:nth-child(1) {
+    color: red;
+    font-size: 22px;
+    margin-top: 150px;
+  }
+  
+  h2:nth-child(3) {
+    color: rgb(31, 70, 31);
+    font-size: 22px;
+  }
+  
+  h2:nth-child(4) {
+    color: blue;
+    font-size: 22px;
+  }
+  
+  h2:nth-child(5) {
+    color: brown;
+    font-size: 22px;
+  }
+  
